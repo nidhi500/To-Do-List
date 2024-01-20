@@ -1,0 +1,50 @@
+body {
+    background: linear-gradient(135deg, #3f5787, #dca5ea);
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    width: 410px;
+    padding: 33px;
+    text-align: center;
+    background-color: #fff;
+    margin-left: 33%;
+    margin-top: 5px;
+    border-radius: 5px;
+}
+
+input {
+    width: 270px;
+    padding: 8px;
+    border: 2px solid rgb(238, 152, 13);
+    outline: none;
+    font-size: 19px;
+    border-radius: 30px;
+}
+
+button {
+    width: 70px;
+    height: 41px;
+    background-color: rgb(4, 29, 29);
+    color: rgb(241, 237, 237);
+    border: none;
+    cursor: pointer;
+    border-radius: 30px;
+    outline: none;
+    font-size: 19px;
+}
+
+.text ul {
+    position: relative;
+    background: linear-gradient(120deg, #f597bf, #d6d972);
+    color: rgb(14, 1, 1);
+    font-size: 19px;
+    padding: 7px;
+    text-align: left;
+}
+
+.text ul i {
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+}
